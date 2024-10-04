@@ -28,7 +28,7 @@
 </div>
 
 <div align=center>
-	<a href="https://weonest.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@weonest"/></a>
+	<a href="https://weonest.vercel.app/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@weonest"/></a>
 <!-- 	<a href="https://weonest.notion.site/acda290a39474147928658f110b4a1d6">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a> -->
