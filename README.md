@@ -13,6 +13,16 @@
 
 <br>
 
+## ☁ Contact Me ☁
+
+<strong> Tech Blog</strong> : <a href="https://weonest.vercel.app/" target="_blank" style="text-decoration:none;">https://weonest.vercel.app</a>
+
+<br>
+
+<strong>📧 Email</strong> : geonhee33@gmail.com<br>
+
+<br>
+
 ## ⚒ Tech Stacks ⚒
 
 ### Languages
@@ -90,13 +100,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br></br>
-
-## ☁ Contact Me ☁
-
-<strong>📧 Tech Blog</strong> : <a href="https://weonest.vercel.app/" target="_blank" style="text-decoration:none;">https://weonest.vercel.app</a>
-
-<br>
-
-<strong>📧 Email</strong> : geonhee33@gmail.com<br>
-
-<br>
