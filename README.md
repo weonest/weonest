@@ -45,7 +45,7 @@
 
 ### Frameworks
 <div>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
 <img src="https://img.shields.io/badge/FastAPI-13978a?style=flat-square&logo=fastapi&logoColor=white"/> 
 </div>
 
@@ -75,8 +75,8 @@
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> 
 </div>
 
 <div style="display: flex; align-items: flex-start;">
